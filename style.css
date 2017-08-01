@@ -3,3 +3,11 @@
 	margin: 0.5em;
 	width: 30%;
 }
+
+.img-responsive {
+	width: 90%;
+}
+
+.row {
+	float: left;
+}
